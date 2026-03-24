@@ -26,6 +26,5 @@ AI Legal Assistant has been deployed here:
 2. Ask Legal Questions: Ask any legal query to AI Legal Assistant's Chat Bot.
 3. Create Legal Documents: AI Legal Assistant can generate content for legal documents, extracting information from your prompts.
 
-## Creators
-V Kamal Jerome | Shakthireka Karthikeyan | Kopika M | Deepesh Raj AY 
+
 
